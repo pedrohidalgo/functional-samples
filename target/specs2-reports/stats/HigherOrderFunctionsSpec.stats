@@ -1,0 +1,16 @@
+<HigherOrderFunctionsSpec-stats timestamp="1442318776614"><stats time="72" expectations="1" successes="1" examples="1"></stats></HigherOrderFunctionsSpec-stats>
+<HigherOrderFunctionsSpec-stats timestamp="1442319003416"><stats time="21" expectations="1" successes="1" examples="1"></stats></HigherOrderFunctionsSpec-stats>
+<HigherOrderFunctionsSpec-stats timestamp="1442319056671"><stats time="15" expectations="1" successes="1" examples="1"></stats></HigherOrderFunctionsSpec-stats>
+<HigherOrderFunctionsSpec-stats timestamp="1442319147139"><stats time="19" expectations="2" successes="2" examples="2"><trend><stats time="19" expectations="1" successes="1" examples="1"></stats></trend></stats></HigherOrderFunctionsSpec-stats>
+<HigherOrderFunctionsSpec-results timestamp="1442319214452"><result location="HigherOrderFunctionsSpec (HigherOrderFunctionsSpec.scala:17)" id="-116096372"><stats time="40" expectations="1" failures="1" examples="1"></stats></result>
+</HigherOrderFunctionsSpec-results>
+<HigherOrderFunctionsSpec-stats timestamp="1442319214463"><stats time="16" expectations="3" failures="1" successes="2" examples="3"><trend><stats time="16" expectations="1" failures="1" examples="1"></stats></trend></stats></HigherOrderFunctionsSpec-stats>
+<HigherOrderFunctionsSpec-results timestamp="1442319285785"><result location="HigherOrderFunctionsSpec (HigherOrderFunctionsSpec.scala:11)" id="-1686261740"><stats time="57" expectations="1" failures="1" examples="1"></stats></result>
+<result location="HigherOrderFunctionsSpec (HigherOrderFunctionsSpec.scala:17)" id="-116096372"><stats time="57" expectations="1" failures="1" examples="1"></stats></result>
+</HigherOrderFunctionsSpec-results>
+<HigherOrderFunctionsSpec-stats timestamp="1442319285796"><stats time="16" expectations="3" failures="2" successes="1" examples="3"><trend><stats time="16" failures="1" successes="-1"></stats></trend></stats></HigherOrderFunctionsSpec-stats>
+<HigherOrderFunctionsSpec-results timestamp="1442319357591"><result location="HigherOrderFunctionsSpec (HigherOrderFunctionsSpec.scala:11)" id="-1686261740"><stats time="52" expectations="1" failures="1" examples="1"></stats></result>
+</HigherOrderFunctionsSpec-results>
+<HigherOrderFunctionsSpec-stats timestamp="1442319357601"><stats time="24" expectations="3" failures="1" successes="2" examples="3"><trend><stats time="24" failures="-1" successes="1"></stats></trend></stats></HigherOrderFunctionsSpec-stats>
+<HigherOrderFunctionsSpec-stats timestamp="1442319386897"><stats time="27" expectations="3" successes="3" examples="3"><trend><stats time="27" failures="-1" successes="1"></stats></trend></stats></HigherOrderFunctionsSpec-stats>
+<HigherOrderFunctionsSpec-stats timestamp="1442319476255"><stats time="30" expectations="3" successes="3" examples="3"></stats></HigherOrderFunctionsSpec-stats>
