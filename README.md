@@ -1,8 +1,7 @@
-Functional Programming Snippets
+Functional Programming Samples
 ============================================
 
-This project contains code snippets for functional programming with Scala,
-I'll be creating more code while learning more functional programming concepts. 
+This project contains code samples for functional programming with Scala,
 
 I'm using the following technologies
 
