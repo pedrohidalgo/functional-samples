@@ -16,10 +16,10 @@ object SquareTransformator {
         val number = line.toLong
         (number * number).toString + System.getProperty("line.separator")
       })
-      .foreach(number => {
+      .foreach(line => {
         Files.write(
           squareNumbersPath,
-          number.toString.getBytes(StandardCharsets.UTF_8),
+          line.getBytes(StandardCharsets.UTF_8),
           StandardOpenOption.APPEND
         )
       })
