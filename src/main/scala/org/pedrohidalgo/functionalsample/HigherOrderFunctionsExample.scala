@@ -1,3 +1,5 @@
+package org.pedrohidalgo.functionalsample
+
 object HigherOrderFunctionsExample {
     def lengthCounter(myString:String) = myString.length
     def wordCounter(myString:String) = myString.split(" ").length

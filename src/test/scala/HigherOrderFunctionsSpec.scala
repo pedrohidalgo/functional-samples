@@ -1,4 +1,5 @@
 import org.specs2._
+import org.pedrohidalgo.functionalsample.HigherOrderFunctionsExample;
 
 class HigherOrderFunctionsSpec extends mutable.Specification {
     "HigherOrderFunctionExample" should {
