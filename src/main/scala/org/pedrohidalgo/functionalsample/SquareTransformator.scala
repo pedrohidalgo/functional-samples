@@ -6,7 +6,7 @@ import java.nio.charset.StandardCharsets
 
 object SquareTransformator {
 
-  def transform(filePath: String, newFilePath:String) = {
+  def transform(filePath: String, newFilePath: String) = {
     val lines = Source.fromFile(filePath).getLines
     val squareNumbersPath = Paths.get(newFilePath)
     Files.write(squareNumbersPath, "".getBytes) //we clear the file before writing in it
@@ -14,12 +14,14 @@ object SquareTransformator {
     lines.filter(line => !line.trim.isEmpty)
       .map(line => {
         val number = line.toLong
-        (number * number).toString +System.getProperty("line.separator")
+        (number * number).toString + System.getProperty("line.separator")
       })
       .foreach(number => {
-        Files.write(squareNumbersPath, 
-                    number.toString.getBytes(StandardCharsets.UTF_8), 
-                    StandardOpenOption.APPEND)
+        Files.write(
+          squareNumbersPath,
+          number.toString.getBytes(StandardCharsets.UTF_8),
+          StandardOpenOption.APPEND
+        )
       })
 
   }
